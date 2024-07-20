@@ -18,5 +18,3 @@
 <!--热门语言卡片-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guoyu666&layout=compact)](https://github.com/guoyu666/github-readme-stats)
 
-<!--Github更多置顶项-->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guoyu666&repo=clash-verge-rev&show_owner=true)](https://github.com/guoyu666/clash-verge-rev)
