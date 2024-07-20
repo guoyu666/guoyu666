@@ -1,5 +1,3 @@
-<!--Github统计卡片-->
-<!--[![GuoYu's GitHub stats](https://github-readme-stats.vercel.app/api?username=guoyu666)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--显示图标-->
 ![GuoYu's GitHub stats](https://github-readme-stats.vercel.app/api?username=guoyu666&show_icons=true)
