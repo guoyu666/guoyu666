@@ -1,10 +1,11 @@
 <!--添加统计卡片并且显示图标-->
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guoyu666&show_icons=true&theme=vue" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=guoyu666&show_icons=true&layout=compact" align = "center"/>
+<p align="left">
+<img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=guoyu666&show_icons=true&theme=vue" align = "right"/>
+  <!--添加热门语言卡片-->
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs?username=guoyu666&show_icons=true&layout=compact" align = "left"/>
 </p>
 
-## Hello GitHub Fans 👋
+### Hello GitHub Fans 👋
 [![Mail Badge](https://img.shields.io/badge/-guoyu.fighing@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:guoyu.fighting@gmail.com)](mailto:guoyu.fighting@gmail.com)
 ---
 <!--猫猫动态图片-->
@@ -17,7 +18,4 @@
 - 😽 目前生活在广州，老家四川南充
 - 💬 最爱的作者：Peter Hessler，代表作《江城》，《寻路中国》，《甲骨文》，《埃及的革命考古学》
 - ⚡ 兴趣爱好：跑步，阅读📊
-
-<!--热门语言卡片-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guoyu666&layout=normal)](https://github.com/guoyu666/github-readme-stats)
 
