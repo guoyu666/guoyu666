@@ -7,6 +7,7 @@
 ## Hello GitHub Fans 👋
 [![Mail Badge](https://img.shields.io/badge/-guoyu.fighing@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:guoyu.fighting@gmail.com)](mailto:guoyu.fighting@gmail.com)
 ---
+<!--猫猫动态图片-->
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### I'm GuoYu
@@ -18,5 +19,5 @@
 - ⚡ 兴趣爱好：跑步，阅读📊
 
 <!--热门语言卡片-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guoyu666&layout=compact)](https://github.com/guoyu666/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guoyu666&layout=normal)](https://github.com/guoyu666/github-readme-stats)
 
