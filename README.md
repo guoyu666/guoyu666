@@ -1,7 +1,7 @@
 <!--添加统计卡片并且显示图标-->
 <p align="center">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=guoyu666&show_icons=true&theme=vue" align = "center"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=guoyu666&show_icons=true&layout=compact" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guoyu666&show_icons=true&theme=vue" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=guoyu666&show_icons=true&layout=compact" align = "center"/>
 </p>
 
 ## Hello GitHub Fans 👋
